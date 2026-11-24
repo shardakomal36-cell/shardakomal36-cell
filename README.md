@@ -1,28 +1,28 @@
+# Hi, I am Komal Sharda!
 
-# Hello, I am Komal Sharda!
+## About Me
 
-### About Me
-- B.Tech Computer Science and Engineering Student
-- Studying at KR Mangalam University
-- Interested in learning new technologies and developing projects.
-  
-## Skills
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Artificial Intelligence and Machine Learning
 
-| Skill | Level |
-|---|---|
-| Python | Beginner |
-| HTML | Beginner |
-| CSS | Beginner |
-| JavaScript | Beginner |
+## Technical Skills
 
-### Areas of Interest
-- Artificial Intelligence
-- Machine Learning
-- Software Development
+| Category | Technologies |
+|------------|-----------------------------------------------------|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
 
-### Projects
-- Mini Greenhouse Monitoring System
-- Personal portfolio using HTML and CSS
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/shardakomal36-cell/cse103-lab-LAB3)
+
+  Git workflows, API interaction, and Markdown documentation
+
+## Currently Working On
+
+- Semester 1 lab projects and building daily problem-solving habits
 
 ### Connect With Me
 - LinkedIn: [My LinkedIn Profile] https://www.linkedin.com/in/komal-sharda-16a774432
