@@ -1,5 +1,5 @@
 
-# Hi, I'm Komal!
+# Hello, I am Komal Sharda!
 
 ### About Me
 - B.Tech Computer Science and Engineering Student
@@ -11,9 +11,9 @@
 | Skill | Level |
 |---|---|
 | Python | Beginner |
-| C Programming | Beginner |
 | HTML | Beginner |
 | CSS | Beginner |
+| JavaScript | Beginner |
 
 ### Areas of Interest
 - Artificial Intelligence
@@ -22,7 +22,7 @@
 
 ### Projects
 - Mini Greenhouse Monitoring System
-- Personal portfolio using html and css
+- Personal portfolio using HTML and CSS
 
 ### Connect With Me
 - LinkedIn: [My LinkedIn Profile] https://www.linkedin.com/in/komal-sharda-16a774432
