@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**shardakomal36-cell/shardakomal36-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Komal!
 
-Here are some ideas to get you started:
+### About Me
+- B.Tech Computer Science and Engineering Student
+- Studying at KR Mangalam University
+- Interested in learning new technologies and developing projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- HTML
+- CSS
+- C Programming
+
+### Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+
+### Projects
+- Mini Greenhouse Monitoring System
+- Personal portfolio using html and css
+
+### Connect With Me
+- LinkedIn: [My LinkedIn Profile] https://www.linkedin.com/in/komal-sharda-16a774432
+- GitHub: [My GitHub Profile] https://github.com/shardakomal36-cell
+-
