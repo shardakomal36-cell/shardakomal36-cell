@@ -3,6 +3,7 @@
 ## About Me
 
 - B.Tech CSE Student at K.R. Mangalam University, Gurugram
+- Batch: 2026–2030 
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
 - Interested in: Artificial Intelligence and Machine Learning
 
